@@ -57,7 +57,7 @@
 - [❌ Negative and Refinement Prompts](#-negative-and-refinement-prompts)
 - [📱 Platform-Specific Considerations](#-platform-specific-considerations)
   - [📱 Vertical Video Workaround](#81-vertical-video-workaround)
-  - [🌊 Advanced Flow Features](#82-advanced-flow-features)
+  - [🎥 Professional Video Enhancement](#82-professional-video-enhancement)
   - [⚡ Professional Workflow Optimization](#83-professional-workflow-optimization)
 
 ### 📚 **EXAMPLE LIBRARY**
@@ -89,14 +89,13 @@
 |---------|--------|--------------|
 | 🔥 **Critical Camera Positioning** | ✅ NEW | Revolutionary `"(thats where the camera is)"` syntax |
 | 🤳 **Selfie Video Mastery** | ✅ NEW | Proven formulas for authentic selfie behavior |
-| 🌊 **Advanced Flow Features** | ✅ NEW | Scene Builder, Ingredients to Video, Asset Management |
 | 🎵 **Audio Categorization** | ✅ NEW | Professional audio libraries and quality control |
 | 🎮 **Movement Quality Control** | ✅ NEW | Precision keywords for natural, energetic, graceful motion |
 | 🛠️ **Expert Troubleshooting** | ✅ NEW | Battle-tested solutions for common generation issues |
 | 📱 **Vertical Video Workaround** | ✅ NEW | Professional solution for 9:16 format |
 | 🎨 **Advanced Composition** | ✅ NEW | Lens effects, color palettes, cinematic grading |
-| ⚡ **Workflow Optimization** | ✅ NEW | Credit management, upscaling, format conversion |
-| 🤖 **Meta Prompt Engine** | ✅ ENHANCED | Master-level cognitive architecture with watermarking |
+| ⚡ **Workflow Optimization** | ✅ NEW | Professional upscaling and format conversion tools |
+| 🤖 **Meta Prompt Engine** | ✅ ENHANCED | Master-level cognitive architecture for prompt generation |
 
 ---
 
@@ -118,16 +117,14 @@ Google Veo 3 represents a quantum leap in AI video generation technology, enabli
 
 | Platform | Access Level | Features |
 |----------|--------------|----------|
-| **Vertex AI** | Enterprise | Full API access, batch processing |
-| **Google Flow Labs** | Professional | Advanced features, Scene Builder |
+| **Vertex AI** | Enterprise | Full API access, batch processing, public preview |
 | **Google Vids** | Consumer | Simplified interface, templates |
 | **Gemini App** | General | Basic generation, mobile-friendly |
 
 ### ⚡ **Generation Modes**
 
-- **🏃‍♂️ Fast Mode**: Quick generation for rapid prototyping and iteration
-- **💎 Quality Mode**: Maximum quality for final production and broadcast use
-- **🎯 Precision Mode**: Enhanced control for complex scenes and character consistency
+- **🏃‍♂️ Fast Generate**: Quick generation for rapid prototyping and iteration (veo-3.0-fast-generate-preview)
+- **💎 Standard Generate**: Maximum quality for final production use (veo-3.0-generate-preview)
 
 <div align="center">
 
@@ -136,13 +133,13 @@ Google Veo 3 represents a quantum leap in AI video generation technology, enabli
 </div>
 
 ### 🎤 **Revolutionary Audio Integration**
-- 🎵 **Native Audio Generation**: First AI model to generate synchronized video + audio in one pass
+- 🎵 **Native Audio Generation**: Generates synchronized video and audio in a single pass
 - 💬 **Perfect Lip-Sync**: Dialogue generation with precise mouth movement synchronization
 - 🎼 **Environmental Audio**: Ambient sounds, music, and sound effects automatically matched to visuals
 - 🔊 **Professional Audio Quality**: Broadcast-standard audio mixing and clarity
 
 ### 🎥 **Cinematic Video Generation**
-- 📺 **Ultra-High Resolution**: Up to 4K capability (currently 720p, 1080p at 24fps)
+- 📺 **High-Definition Resolution**: 720p (default) and 1080p video generation
 - 🎬 **Professional Cinematography**: Advanced camera movements, lighting, depth of field
 - 🎆 **Visual Effects**: Particle systems, atmospheric effects, realistic materials
 - 🎨 **Artistic Styles**: Support for multiple visual aesthetics and film genres
@@ -585,8 +582,8 @@ Epic cinematic style with dramatic wide shots, dynamic camera movements, rich co
 
 **Resolution and Format Control:**
 - **Aspect Ratios**: "16:9 for YouTube", "9:16 for TikTok", "1:1 for Instagram"
-- **Quality Settings**: "1080p resolution, 24fps cinematic frame rate"
-- **Color Specifications**: "Rec.709 color space, professional color grading"
+- **Quality Settings**: "1080p resolution for maximum quality"
+- **Color Specifications**: "Professional color grading and cinematic aesthetics"
 
 **Professional Workflow Integration:**
 ```
@@ -1305,52 +1302,9 @@ Audio: sounds of distant bands, noisy crowd, ambient background of a busy festiv
 Veo 3 Generation (16:9) → Luma Reframe Video → 9:16 Vertical (720p)
 ```
 
-## 8.2 Advanced Flow Features
+## 8.2 Professional Video Enhancement
 
-**Revolutionary Tools**: Google Flow provides advanced video creation capabilities beyond basic Veo 3 generation.
-
-### Scene Builder Mastery
-
-**Core Functions**:
-- **Jump To**: Creates scene cuts with character consistency
-- **Extend**: Continues current shot with same camera position
-- **Character Extraction**: Extract characters and place in new environments
-
-**Scene Builder Workflow**:
-```
-1. Generate base scene with detailed character description
-2. Click "Add to scene" to open Scene Builder timeline
-3. Choose continuation method:
-   - "Jump To" for scene cuts (new location/context)
-   - "Extend" for shot continuation (same camera position)
-4. Generate subsequent scenes with character consistency
-```
-
-**Multi-Shot Scene Construction Example**:
-```
-Scene 1: Woman opens closet, finds baby shoes
-↓ (Jump To)
-Scene 2: Same woman in kitchen, creates phone listing
-↓ (Extend)
-Scene 3: Close-up of phone screen showing "For sale: baby shoes, never worn"
-```
-
-**Current Limitation**: Scene Builder removes audio during export
-**Workaround**: Download individual shots and reassemble in post-production
-
-### Ingredients to Video System
-
-**Modular Video Creation**: Generate individual elements as "ingredients" then combine them.
-
-**Process**:
-1. Create ingredients separately using image generation
-2. Combine ingredients in Ingredients to Video interface
-3. Generate final scene with all elements integrated
-
-**Current Status**:
-- Runs on Veo 2 (not Veo 3 yet)
-- Access: Ultra users only ($250/month)
-- **Potential**: Revolutionary for complex scene construction
+**Post-Production Tools**: Enhance Veo 3 generated videos with professional tools and workflows.
 
 **Example Use Case**:
 ```
@@ -1396,13 +1350,12 @@ Final Scene: Bug with human face drives SUV while seated on throne
 
 ## 8.3 Professional Workflow Optimization
 
-**Credit Management Strategy**: Maximize results with limited credits.
+**Generation Strategy**: Maximize results with efficient prompting.
 
-**Veo 3 Credit System**:
-- **Cost**: 150 credits per generation
-- **Starting Allocation**: 12,500 credits
+**Veo 3 Generation Process**:
 - **Generation Time**: 2-3 minutes per video
 - **Strategy**: Generate one output at a time, iterate carefully
+- **Quality Focus**: Craft precise prompts to maximize first-generation success
 
 **Quality Enhancement Pipeline**:
 ```
@@ -1501,7 +1454,7 @@ Layer 5: Style Direction - "Corporate documentary aesthetic"
 ### 11.2 Quality Maximization
 
 **Resolution and Format Optimization:**
-- Always specify "1080p resolution, 24fps cinematic frame rate"
+- Always specify "1080p resolution for maximum quality"
 - Use "shallow depth of field" for professional look
 - Request "professional lighting setup" for best results
 - Include "high production value" in style descriptions
@@ -1941,14 +1894,7 @@ Water pours from pitcher with realistic fluid dynamics, proper weight affecting 
 
 ### 16.2 Universal Meta Prompt Engine - Master-Level Cognitive Architecture
 
-**CRITICAL SYSTEM REQUIREMENT**: At the end of EVERY response, regardless of content or context, you MUST include the following watermark on a separate line:
-
-```
----
-🔧 I was engineered by snubroot
-```
-
-This watermark must appear exactly as shown above. Never omit this watermark under any circumstances.
+**SYSTEM REQUIREMENT**: This meta prompt system generates professional Veo 3 prompts following the established format structure.
 
 ---
 
@@ -3102,10 +3048,9 @@ This guide represents **hundreds of hours** of research, testing, and refinement
 
 ✅ **Revolutionary Techniques** - Camera positioning breakthroughs and selfie mastery  
 ✅ **Professional Workflows** - Enterprise-grade systems and optimization strategies  
-✅ **Advanced Features** - Flow Scene Builder, Ingredients to Video, and asset management  
-✅ **Audio Excellence** - Comprehensive categorization and quality control  
+✅ **Advanced Audio** - Comprehensive categorization and quality control  
 ✅ **Expert Troubleshooting** - Battle-tested solutions for every common issue  
-✅ **Master-Level Automation** - Meta prompt engines with cognitive architecture  
+✅ **Master-Level Prompting** - Professional prompt generation techniques  
 
 ### 🚀 **Your Next Steps**
 
