@@ -295,8 +295,10 @@ The woman wearing pink says: "But I'm the one who's wearing pink." The man with 
 
 **Method 1 - Colon Format:**
 ```
-Use: Character says: "dialogue"
-Avoid: Character says "dialogue" or Character says: "dialogue"
+Use: Character says: "dialogue" (with colon before dialogue)
+Avoid: Character says "dialogue" (no colon - triggers subtitles)
+
+KEY: The colon (:) prevents subtitle generation
 ```
 
 **Method 2 - Explicit Negation:**
