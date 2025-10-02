@@ -10,9 +10,13 @@
 
 <div align="center">
 
+# Sora 2 Prompting Guide 提示词与 API 调用开发文档
+
 注：以 VEO 3 提示词为参考，打造一份属于 Sora 2 视频提示词大全
 
 附 Sora 2 API 调用文档 https://xinqikeji.feishu.cn/wiki/RuHDw0BICiRYdokDYy6cPAwunuf
+
+----
 
 # 🎬 **GOOGLE VEO 3 MASTER PROMPTING GUIDE**
 ### *The Ultimate Professional Resource for AI Video Generation*
